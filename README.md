@@ -7,3 +7,15 @@ Organized longitude and latitude for addresses where requests were sent out to d
 
 ### Table of Contents
 1. Sensor Placement Strategy
+
+| Clusters | Clusters throughout Manhattan, NY | Borough |
+| --- | --- | --- |
+| Example 1 | <img width="707" alt="Screenshot 2023-07-21 at 12 00 21 PM" src="https://github.com/sally-dhar/ARISE-2023---FloodNet/assets/139362763/fa3210d7-17d4-4fa9-92b4-444b1e8365e3">| --- |
+| New Maps | Clusters throughout Manhattan, NY | --- |
+| Example 2 |<img width="540" alt="Screenshot 2023-07-21 at 12 03 19 PM" src="https://github.com/sally-dhar/ARISE-2023---FloodNet/assets/139362763/11d629ab-93ea-41b8-90bf-651af01beae0">| --- |
+
+| asdlasknd |   |          |   |   |
+|-----------|---|----------|---|---|
+| saoinfa   |   | asdlkadm |   |   |
+|           |   |          |   |   |
+|           |   |          |   |   |
