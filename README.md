@@ -9,7 +9,7 @@ Worked with Polly Pierone by finding longitude and latitude for flood locations 
 Organized longitude and latitude for addresses where requests were sent out to deploy flood sensors. Also helped organize the dates of requests sent out in the sensor suggestion forms. 
 
 ## Table of Contents
-1. Sensor Placement Strategy
+#### 1. Sensor Placement Strategy
 
 | Cluster or CT Number | Borough | Image | Notes |
 |----------------------| ---     | ---   | ---   |
