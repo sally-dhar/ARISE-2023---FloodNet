@@ -9,9 +9,7 @@ Worked with Polly Pierone by finding longitude and latitude for flood locations 
 Organized longitude and latitude for addresses where requests were sent out to deploy flood sensors. Also helped organize the dates of requests sent out in the sensor suggestion forms. 
 
 ## Table of Contents
-#### 1. Sensor Placement Strategy
-
-## Key
+### 1. Sensor Placement Strategy
 
 | Whole Map | <img width="672.5" alt="Full Map of NYC" src="https://github.com/sally-dhar/ARISE-2023---FloodNet/assets/139362763/1bf5692f-1168-461e-9c6f-292cc2600159"> |
 | --------- | --- |
