@@ -1,5 +1,5 @@
 # ARISE 2023 - FloodNet 
-NYU Tandon's summer ARISE program partners up New York City high school juniors and seniors with a NYU lab to gain STEM research skills and experience. By being paired up with mentors and researchers in the lab, ARISE students conducr research under their guidance. FloodNet is a team of researchers that focuses on civil and urban engineering that produces low-cost flood sensors. The creation of these flood sensors aims to measure and understand the severity of flooding in NYC. The data obtained with these sensors helps prevent flood risks by monitoring real-time flood data.
+NYU Tandon's summer ARISE program partners up New York City high school juniors and seniors with a NYU lab to gain STEM research skills and experience. By being paired up with mentors and researchers in the lab, ARISE students conduct research under their guidance. FloodNet is a team of researchers that focuses on civil and urban engineering that produces low-cost flood sensors. The creation of these flood sensors aims to measure and understand the severity of flooding in NYC. The data obtained with these sensors helps prevent flood risks by monitoring real-time flood data.
 
 #### Introduction
 
