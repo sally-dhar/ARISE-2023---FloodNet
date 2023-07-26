@@ -11,7 +11,7 @@ Organized longitude and latitude for addresses where requests were sent out to d
 ## Table of Contents
 ### 1. Sensor Placement Strategy
 
-| Whole Map | <img width="672.5" alt="Full Map of NYC" src="https://github.com/sally-dhar/ARISE-2023---FloodNet/assets/139362763/1bf5692f-1168-461e-9c6f-292cc2600159"> |
+| Full Map of NYC | <img width="672.5" alt="Full Map of NYC" src="https://github.com/sally-dhar/ARISE-2023---FloodNet/assets/139362763/1bf5692f-1168-461e-9c6f-292cc2600159"> |
 | --------- | --- |
 | Key       | <img width="550" alt="Key" src="https://github.com/sally-dhar/ARISE-2023---FloodNet/assets/139362763/90dbeb78-3184-443d-9214-1efe2a82c04d">|
 
